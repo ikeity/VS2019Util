@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+Util/.vs/Util/v16/.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.recipe
+*.iobj
+*.ipdb
+*.log
+*.pdb
+*.tlog
+*.txt
+*.user
